@@ -1,0 +1,92 @@
+.üst {
+    margin-top: 10%;
+}
+/* Coneiner bölümü CSS ilk gri */
+.gri {
+    background-color: rgb(238, 237, 237);
+    width: 800px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-top: 2px;
+}
+
+.mavi1{
+    background-color: rgb(124, 225, 243);
+    width: 298px;
+    height: 140px;
+    margin-right: 2px;
+    text-align: center;
+    margin-top: 0px;
+    float: left;
+        
+}
+
+.mavi2{
+    background-color: rgb(98, 217, 238);
+    width: 198px;
+    height: 140px;
+    margin-top: 0px;
+    margin-right: 2px;
+    float: left;
+    text-align: center;
+    line-height: 1;
+   /* display: table-column; bunlar niye calısmadı ki */
+    vertical-align: middle;
+}
+
+.mavi3 {
+    background-color: rgb(40, 214, 245);
+    width: 300px;
+    height: 140px;
+    text-align: center;
+    margin-top: 0px;
+    float: left;
+   line-height: 0,05;
+}
+
+    
+
+.bos-box {
+    width: 300px;
+    background-color:white;
+    border: 1px solid gray;
+    text-align: center;
+        }
+
+.butonn {
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+         }
+.a {
+    transform: translate(-50%, -50%);
+}
+
+.art {
+    width: 130px;
+    background-color:white;
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left
+}
+
+
+.ortalamaca {
+    /* clear: left; */
+   
+   margin: 0 auto 0;
+   display: table;
+    
+}
+
+
+.ppir {
+    text-align: center;
+}
+
